@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            sam's blog 
+title:            Le super blog de sam 
 locale:           fr
-url:              http://sam217pa.github.io/samuel-barreto
+url:              http://sam217pa.github.io
 
 
 # Jekyll configuration
@@ -30,18 +30,18 @@ owner:
   avatar: bio-photo.jpg
   bio: "Student of microbiology, life and evolution"
   email: samuel.barreto8@gmail.com
-  disqus-shortname:
-  twitter: #samuel_barreto8
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: #sam217pa
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  soundcloud: #username
+  # disqus-shortname:
+  twitter: samuel_barreto8
+  # google:
+  #   plus: #username
+  #   analytics:
+  #   verify:
+  #   ad-client:
+  #   ad-slot:
+  # bing-verify:
+  github: sam217pa
+  # stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  # soundcloud: #username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
