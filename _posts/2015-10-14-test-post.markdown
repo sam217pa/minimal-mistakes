@@ -10,9 +10,27 @@ image:
 date: 2015-10-14T16:38:14+02:00
 ---
 
+{% include _toc.html %}
+
 # Ouverture du blog
 
 Suivant les recommandations de
 [andy](http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050),
 j'ai décidé de me mettre à écrire tous les matins, pour profiter du *R*-mode du
-cerveau. C'est ma foi bien pratique de pouvoir faire ce genre de truc. '
+cerveau. C'est ma foi bien pratique de pouvoir faire ce genre de truc.
+
+# But 
+
+Le but est de recenser tous les raisonnements qu'il m'arrive de faire, au fur et
+à mesure de ma découverte de l'évolution et de l'impact de certains mécanismes
+sur l'évolution des génomes.
+
+Il est également possible d'inclure du code non ?
+
+```r
+library(ggplot2)
+x = 3 + 2
+y = data.frame(a = rnorm(100), b = runif(100))
+'```
+
+Je suis content.
