@@ -27,10 +27,17 @@ sur l'évolution des génomes.
 
 Il est également possible d'inclure du code non ?
 
+
 ```r
 library(ggplot2)
 x = 3 + 2
 y = data.frame(a = rnorm(100), b = runif(100))
-'```
+```
 
-Je suis content.
+
+Je suis content. Je peux faire des choses.
+
+> Je veux citer quelqu'un. C'est possible de citer quelqu'un sur plusieurs
+> lignes non ?
+
+C'est un test de ligature : fl fi ff ft ffh 
