@@ -12,32 +12,33 @@ date: 2015-10-14T16:38:14+02:00
 
 {% include _toc.html %}
 
-# Ouverture du blog
+# Starting a blog
 
-Suivant les recommandations de
-[andy](http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050),
-j'ai décidé de me mettre à écrire tous les matins, pour profiter du *R*-mode du
-cerveau. C'est ma foi bien pratique de pouvoir faire ce genre de truc.
+Following the advice of 
+[Andy Hunt](http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050),
+I decided to start a blog. I want to be able to communicate my ideas in the most
+limpid way. Being a non-native English speaker, it is crucial for me to get used
+to write in English. 
 
-# But 
+# Goal
 
-Le but est de recenser tous les raisonnements qu'il m'arrive de faire, au fur et
-à mesure de ma découverte de l'évolution et de l'impact de certains mécanismes
-sur l'évolution des génomes.
+I am currently learning population genomics, applied to microbial communities.
+Me and my supervisors are studying a biased gene conversion process in bacteria,
+using a natural transformation model of recombination : *Acinetobacter*.
 
-Il est également possible d'inclure du code non ?
+I have never been exposed to such concepts, yet they seem really appealing to
+me. I want to be able to put some clear reasoning on concepts I have learned so
+far. Writing a blog is perfect for that. 
+
+# An aspiring bacterial evolutionnist
+
+Here I'll try to expose stuff that I learned during my late readings and
+research paper gambling…
+
+I mostly do microbiology and evolution on a computer, using `R` and `Python`,
+and I try my best to be good at it. I'll certainly blog on it sometimes. 
+
+I also loves [Emacs](https://github.com/syl20bnr/spacemacs), on which I'll try
+to blog some other times. 
 
 
-```r
-library(ggplot2)
-x = 3 + 2
-y = data.frame(a = rnorm(100), b = runif(100))
-```
-
-
-Je suis content. Je peux faire des choses.
-
-> Je veux citer quelqu'un. C'est possible de citer quelqu'un sur plusieurs
-> lignes non ?
-
-C'est un test de ligature : fl fi ff ft ffh 
