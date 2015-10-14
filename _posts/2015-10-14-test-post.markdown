@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mon premier post"
+title: "Starting a blog"
 modified:
 categories: 
 excerpt:
