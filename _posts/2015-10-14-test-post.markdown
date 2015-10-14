@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Mon premier post"
+modified:
+categories: 
+excerpt:
+tags: [blog, microbiologie, french]
+image:
+  feature:
+date: 2015-10-14T16:38:14+02:00
+---
+
+# Ouverture du blog
+
+Suivant les recommandations de
+[andy](http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050),
+j'ai décidé de me mettre à écrire tous les matins, pour profiter du *R*-mode du
+cerveau. C'est ma foi bien pratique de pouvoir faire ce genre de truc. '
