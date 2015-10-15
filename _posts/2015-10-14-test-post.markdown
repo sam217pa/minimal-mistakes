@@ -3,7 +3,7 @@ layout: post
 title: "Starting a blog"
 modified:
 categories: 
-excerpt:
+excerpt: "A short post explaining why I started a blog" 
 tags: [blog, microbiologie, french]
 image:
   feature:
@@ -12,7 +12,6 @@ date: 2015-10-14T16:38:14+02:00
 
 {% include _toc.html %}
 
-# Starting a blog
 
 Following the advice of 
 [Andy Hunt](http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050),
