@@ -3,11 +3,12 @@ layout: post
 title: "Hill-Robertson Effects"
 modified:
 categories: evolution
-excerpt:
-tags: [hill, robertson, effects, evolution]
+excerpt: "A very short introduction to Hill Robertson Effects"
+tags: [hill robertson effects, evolution]
 image:
   feature:
 date: 2015-10-15T19:06:40+02:00
+comments: true
 ---
 
 Hill-Robertson effects are interference between two locus under selection, when
