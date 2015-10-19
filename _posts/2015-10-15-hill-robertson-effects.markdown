@@ -13,45 +13,62 @@ comments: true
 
 {% include _toc.html %}
 
-Hill-Robertson effects are interference between two locus under selection, when
-the two locus are not or marginally affected by recombination.
+> Hill-Robertson effects are interference between two locus under selection. When
+> recombination is weak, selection on the two locus interfere. Selection is less
+> efficient than when it acts on two independent locus.
 
-# Directional selection
+Consider *A* and *B*, two moderately advantageous allele, in different
+population. They are under positive or directional selection. If recombination
+is weak, an optimal *AB* combination can never appear. *A* and *B* interfere
+with each other.
 
-It is a special case of linkage, where two alleles under
-positive—directional—selection are competing for the selective sweep. The
-optimal combination is never reached, in the absence of recombination.
+Those are the typical Hill-Robertson effects, as described by Hill and Robertson
+in 1966. They have been described under other declination since.
 
-In a population of resident, *A* and *B* are two loci under positive selection,
-*a* and *b* are the two respective selected loci in the mutant. The optimal
-genotype would then be *ab*. But *a* and *B* are in link disequilibrium, and *A*
-and *b* too. This is a case of the so called genetic hitch-hiking[^1], of *A*
-for *b* or *B* for *a*. This lead to a competition for the selective sweep
-occurring after the invasion of *aB* or *Ab* in the population. In the absence
-of recombination, one can never obtain the optimal *ab*.
+# Selective Sweep
 
-In this context, selection is clearly more efficient in region of high
-recombination rate. In the absence of recombination, selection can only act on
-one allele, leading to selective sweep competition, or Hill-Robertson effect. 
+Consider *A*, a strongly advantageous allele, and *b* a weakly deleterious
+allele. *b* is linked to *A*[^2]. The advantageous effects of *A* leads to its
+invasion in the population. It can even lead to a point of fixation. It is thus
+a selective sweep of *A*.
+
+But *b* is linked to *A*. *b* will also invade the population, even if it is
+deleterious. This is a case of "genetic hitch-hiking"[^1]. 
 
 # Background selection
 
-Let us consider a deleterious allele. The selection is now negative, or
-purifying, leading to the progressive erasure of the allele from the genetic
-pool. All genes and loci being currently linked to this specific allele would be
-erased as well from the genetic pool. It can be so even in cases where the
-linked locus is either neutral, or positively selected. The advantageous effects
-of the positively selected allele would have to be less beneficial than losing the
-deleterious allele for this to occur.
+It is the opposite case of selective sweep interference. Consider now *B*, a
+strongly deleterious allele, and *a* a weakly advantageous allele. *a* is linked
+to *B*. The deleterious effects of *B* lead to the extinction of *B* carrying
+individuals.
+
+But *a* is linked to *B*. *a* will disappear from the population, even if it is
+advantageous. This is a case of background selection. All polymorphism linked to
+a strongly deleterious allele is purged. 
+
+# Muller's Ratchet
+
+> Muller's ratchet was first described in 1932.
+
+It happens in clonal species, with small population sizes. A population carrying
+no deleterious mutation is a population subgroup. When the first deleterious
+mutation appears, the population ratchets up on the mutational burden. Since
+recombination is weak, given the small population size, this mutation has no
+chance to be cured. When further deleterious mutation occurs, population
+degenerate. Its fitness irresistibly drops down, to the point of extinction.
 
 # Conclusion
 
-Selective sweep leads to the erasure of the pre-existing variation at a given
-locus, whereas background selection decreases the local polymorphism rate of the
-genes and neutral regions linked to the selected locus.
+Hill-Robertson effects only occurs when recombination is weaker than mutation.
+Polymorphism decreases and selection efficacy decreases too. One must consider
+selection intensity, mutation and recombination respective rates. The size of
+the genomic window affected depends on those three parameters : if recombination
+is weak and selection strong, genome can be affected on a large scale. 
 
-Linkage thus plays a role on interference between loci under selection.
-Multi-loci natural selection is the most efficient when acting on independent
-loci.
+Hill-Robertson effects can explain counter intuitive observations. The spread of
+deleterious allele can be explained by genomic interference, as is the case with
+cystic fibrosis.
 
 [^1]: As coined by John Maynard Smith.
+
+[^2]: They are in "linkage desequilibrium". 
