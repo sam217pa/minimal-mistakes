@@ -141,3 +141,5 @@ science and life.
 
 [^9]: [An example](https://www.dropbox.com/s/5obbvrbudd06tbo/notes.pdf?dl=0) of
     what I do with LaTeX.
+
+
