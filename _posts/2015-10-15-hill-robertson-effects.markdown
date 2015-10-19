@@ -25,7 +25,7 @@ with each other.
 Those are the typical Hill-Robertson effects, as described by Hill and Robertson
 in 1966. They have been described under other declination since.
 
-# Selective Sweep
+## Selective Sweep
 
 Consider *A*, a strongly advantageous allele, and *b* a weakly deleterious
 allele. *b* is linked to *A*[^2]. The advantageous effects of *A* leads to its
@@ -35,7 +35,7 @@ a selective sweep of *A*.
 But *b* is linked to *A*. *b* will also invade the population, even if it is
 deleterious. This is a case of "genetic hitch-hiking"[^1]. 
 
-# Background selection
+## Background selection
 
 It is the opposite case of selective sweep interference. Consider now *B*, a
 strongly deleterious allele, and *a* a weakly advantageous allele. *a* is linked
@@ -46,7 +46,7 @@ But *a* is linked to *B*. *a* will disappear from the population, even if it is
 advantageous. This is a case of background selection. All polymorphism linked to
 a strongly deleterious allele is purged. 
 
-# Muller's Ratchet
+## Muller's Ratchet
 
 > Muller's ratchet was first described in 1932.
 
@@ -57,7 +57,7 @@ recombination is weak, given the small population size, this mutation has no
 chance to be cured. When further deleterious mutation occurs, population
 degenerate. Its fitness irresistibly drops down, to the point of extinction.
 
-# Conclusion
+## Conclusion
 
 Hill-Robertson effects only occurs when recombination is weaker than mutation.
 Polymorphism decreases and selection efficacy decreases too. One must consider

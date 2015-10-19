@@ -1,10 +1,7 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Curriculum 
+  url: /cv/
 
 - title: Blog
   url: /posts/
-
-- title: Curriculum
-  url: /cv/

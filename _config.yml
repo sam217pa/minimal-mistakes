@@ -3,7 +3,7 @@
 title:            Bacterial finches
 locale:           en_US
 url:              http://sam217pa.github.io
-
+# url:              http://localhost:4000
 
 # Jekyll configuration
 
