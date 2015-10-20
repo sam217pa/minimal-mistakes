@@ -2,8 +2,8 @@
 
 title:            Bacterial finches
 locale:           en_US
-url:              http://sam217pa.github.io
-# url:              http://localhost:4000
+# url:              http://sam217pa.github.io
+url:              http://localhost:4000
 
 # Jekyll configuration
 
@@ -32,10 +32,10 @@ owner:
   email: samuel.barreto8@gmail.com
   disqus-shortname: sam217pagithubio
   twitter: samuel_barreto8
-  # google:
+  google:
+    verify: xPxVccrg2-0RlI32vRORqWagIn8jupNRIctP80jjc8k
+    analytics: UA-69057337-1
   #   plus: #username
-  #   analytics:
-  #   verify:
   #   ad-client:
   #   ad-slot:
   # bing-verify:
