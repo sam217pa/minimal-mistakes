@@ -6,7 +6,7 @@ categories: evolution
 excerpt: "A very short introduction to Hill Robertson Effects"
 tags: [hill robertson effects, evolution]
 image:
-  feature:
+  feature: dnaseq.jpg
 date: 2015-10-15T19:06:40+02:00
 comments: true
 ---

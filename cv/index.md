@@ -109,9 +109,11 @@ Vim for comfort, and Emacs for sanity{% sidenote "6" "Actually I use [Spacemacs]
 </p>
 <h2 align="center">Languages</h2>
 
-* Je parle Français, my mother's tongue. 
-* I speak, read and understand English (TOEIC level : C1)
-* Ich verstehe Deutsch, although not that well. 
+Je parle Français, my mother's tongue.
+
+I speak, read and understand English{% sidenote "11" "TOEIC level C1."%}
+
+Ich verstehe Deutsch, although not that well. 
 
 
 -------------------------------------------------------------------------------
@@ -125,5 +127,3 @@ I play music with various instruments in various bands. I love hiking in the
 [beautiful French Alps](http://medias.valdallos.com/images/info_pages/multitailles/800x600_lac-d-allos-2385.jpg).
 I like travelling, reading about Evolution, reading as such, coffee, gherkins,
 science and life.
-
-
