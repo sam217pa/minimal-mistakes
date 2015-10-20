@@ -1,0 +1,8 @@
+#!/usr/local/bin/zsh
+
+bundle exec jekyll build
+
+cd _site
+git add .
+git commit -m "deploying site"
+git push
