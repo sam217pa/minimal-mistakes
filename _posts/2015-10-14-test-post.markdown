@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Starting a blog"
+modified:
+categories: 
+excerpt: "A short post explaining why I started a blog" 
+tags: [blog, microbiologie, french]
+image:
+  feature:
+date: 2015-10-14T16:38:14+02:00
+---
+
+{% include _toc.html %}
+
+
+Following the advice of 
+[Andy Hunt](http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050),
+I decided to start a blog. I want to be able to communicate my ideas in the most
+limpid way. Being a non-native English speaker, it is crucial for me to get used
+to write in English. 
+
+# Goal
+
+I am currently learning population genomics, applied to microbial communities.
+Me and my supervisors are studying a biased gene conversion process in bacteria,
+using a natural transformation model of recombination : *Acinetobacter*.
+
+I have never been exposed to such concepts, yet they seem really appealing to
+me. I want to be able to put some clear reasoning on concepts I have learned so
+far. Writing a blog is perfect for that. 
+
+# An aspiring bacterial evolutionnist
+
+Here I'll try to expose stuff that I learned during my late readings and
+research paper gambling…
+
+I mostly do microbiology and evolution on a computer, using `R` and `Python`,
+and I try my best to be good at it. I'll certainly blog on it sometimes. 
+
+I also loves [Emacs](https://github.com/syl20bnr/spacemacs), on which I'll try
+to blog some other times. 
+
+

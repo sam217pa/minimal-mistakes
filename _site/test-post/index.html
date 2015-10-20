@@ -5,15 +5,15 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Embed D3 Code into a markdown Jekyll Document &#8211; Bacterial finches</title>
-<meta name="description" content="An example of how to insert d3 visualisation in a markdown blog">
-<meta name="keywords" content="d3, datavis, markdown">
+<title>Starting a blog &#8211; Bacterial finches</title>
+<meta name="description" content="A short post explaining why I started a blog">
+<meta name="keywords" content="blog, microbiologie, french">
 
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Embed D3 Code into a markdown Jekyll Document">
-<meta name="twitter:description" content="An example of how to insert d3 visualisation in a markdown blog">
+<meta name="twitter:title" content="Starting a blog">
+<meta name="twitter:description" content="A short post explaining why I started a blog">
 <meta name="twitter:site" content="@samuel_barreto8">
 <meta name="twitter:creator" content="@samuel_barreto8">
 
@@ -23,9 +23,9 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Embed D3 Code into a markdown Jekyll Document">
-<meta property="og:description" content="An example of how to insert d3 visualisation in a markdown blog">
-<meta property="og:url" content="http://localhost:4000/datavis/embed-d3-code/">
+<meta property="og:title" content="Starting a blog">
+<meta property="og:description" content="A short post explaining why I started a blog">
+<meta property="og:url" content="http://localhost:4000/test-post/">
 <meta property="og:site_name" content="Bacterial finches">
 
 <meta property="og:image" content="http://localhost:4000/images/default-thumb.png">
@@ -36,7 +36,7 @@
 
 
 
-<link rel="canonical" href="http://localhost:4000/datavis/embed-d3-code/">
+<link rel="canonical" href="http://localhost:4000/test-post/">
 <link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Bacterial finches Feed">
 
 <!-- http://t.co/dKP3o1e -->
@@ -145,126 +145,51 @@
   <article class="post">
     <div class="headline-wrap">
       
-        <h1><a href="http://localhost:4000/datavis/embed-d3-code/" rel="bookmark" title="Embed D3 Code into a markdown Jekyll Document">Embed D3 Code into a markdown Jekyll Document</a></h1>
+        <h1><a href="http://localhost:4000/test-post/" rel="bookmark" title="Starting a blog">Starting a blog</a></h1>
       
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
-      <p>I deserve no credits for this. It is basically a copy and paste from Nick Such’s
-previous <a href="http://www.nicksuch.com/2014/03/26/d3-sample/">post</a>. It follows his
-answer to a question on
-<a href="http://stackoverflow.com/questions/22651346/how-to-embed-a-d3-js-example-to-the-jekyll-blog-post">StackOverflow</a>.</p>
+      <section id="table-of-contents" class="toc">
+  <header>
+    <h3><i class="fa fa-book"></i> Overview</h3>
+  </header>
+<div id="drawer">
+<ul id="markdown-toc">
+  <li><a href="#goal" id="markdown-toc-goal">Goal</a></li>
+  <li><a href="#an-aspiring-bacterial-evolutionnist" id="markdown-toc-an-aspiring-bacterial-evolutionnist">An aspiring bacterial evolutionnist</a></li>
+</ul>
 
-<p>See
-<a href="https://raw.githubusercontent.com/nicksuch/nicksuch.github.io/master/_posts/2014-03-26-d3-sample.md">here</a>
-for details about how to do it.</p>
+  </div>
+</section>
+<!-- /#table-of-contents -->
 
-<style>
+<p>Following the advice of 
+<a href="http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050">Andy Hunt</a>,
+I decided to start a blog. I want to be able to communicate my ideas in the most
+limpid way. Being a non-native English speaker, it is crucial for me to get used
+to write in English.</p>
 
-div.example {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
+<h1 id="goal">Goal</h1>
 
-.box {
-  font: 10px sans-serif;
-}
+<p>I am currently learning population genomics, applied to microbial communities.
+Me and my supervisors are studying a biased gene conversion process in bacteria,
+using a natural transformation model of recombination : <em>Acinetobacter</em>.</p>
 
-.box line,
-.box rect,
-.box circle {
-  fill: #008080;
-  stroke: #000;
-  stroke-width: 1.5px;
-}
+<p>I have never been exposed to such concepts, yet they seem really appealing to
+me. I want to be able to put some clear reasoning on concepts I have learned so
+far. Writing a blog is perfect for that.</p>
 
-.box .center {
-  stroke-dasharray: 3,3;
-}
+<h1 id="an-aspiring-bacterial-evolutionnist">An aspiring bacterial evolutionnist</h1>
 
-.box .outlier {
-  fill: none;
-  stroke: #ccc;
-}
+<p>Here I’ll try to expose stuff that I learned during my late readings and
+research paper gambling…</p>
 
-</style>
+<p>I mostly do microbiology and evolution on a computer, using <code>R</code> and <code>Python</code>,
+and I try my best to be good at it. I’ll certainly blog on it sometimes.</p>
 
-<script src="http://d3js.org/d3.v3.min.js"></script>
+<p>I also loves <a href="https://github.com/syl20bnr/spacemacs">Emacs</a>, on which I’ll try
+to blog some other times.</p>
 
-<script src="http://bl.ocks.org/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/box.js"></script>
-
-<script>
-
-var margin = {top: 10, right: 50, bottom: 20, left: 50},
-    width = 120 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
-
-var min = Infinity,
-    max = -Infinity;
-
-var chart = d3.box()
-    .whiskers(iqr(1.5))
-    .width(width)
-    .height(height);
-
-d3.csv("/dataset/morley.csv", function(error, csv) {
-  var data = [];
-
-  csv.forEach(function(x) {
-    var e = Math.floor(x.Expt - 1),
-        r = Math.floor(x.Run - 1),
-        s = Math.floor(x.Speed),
-        d = data[e];
-    if (!d) d = data[e] = [s];
-    else d.push(s);
-    if (s > max) max = s;
-    if (s < min) min = s;
-  });
-
-  chart.domain([min, max]);
-
-  var svg = d3.select("div#example").selectAll("svg")
-      .data(data)
-    .enter().append("svg")
-      .attr("class", "box")
-      .attr("width", width + margin.left + margin.right)
-      .attr("height", height + margin.bottom + margin.top)
-    .append("g")
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
-      .call(chart);
-
-  setInterval(function() {
-    svg.datum(randomize).call(chart.duration(1000));
-  }, 2000);
-});
-
-function randomize(d) {
-  if (!d.randomizer) d.randomizer = randomizer(d);
-  return d.map(d.randomizer);
-}
-
-function randomizer(d) {
-  var k = d3.max(d) * .02;
-  return function(d) {
-    return Math.max(min, Math.min(max, d + k * (Math.random() - .5)));
-  };
-}
-
-// Returns a function to compute the interquartile range.
-function iqr(k) {
-  return function(d, i) {
-    var q1 = d.quartiles[0],
-        q3 = d.quartiles[2],
-        iqr = (q3 - q1) * k,
-        i = -1,
-        j = d.length;
-    while (d[++i] < q1 - iqr);
-    while (d[--j] > q3 + iqr);
-    return [i, j];
-  };
-}
-
-</script>
-
-<div id="example"></div>
 
       <hr />
       <footer role="contentinfo">
@@ -272,17 +197,17 @@ function iqr(k) {
   <h4>Share on</h4>
   <ul>
     <li>
-      <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/datavis/embed-d3-code/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+      <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/test-post/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
     </li>
     <li>
-      <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/datavis/embed-d3-code/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/test-post/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
     </li>
     <li>
-      <a href="https://plus.google.com/share?url=http://localhost:4000/datavis/embed-d3-code/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+      <a href="https://plus.google.com/share?url=http://localhost:4000/test-post/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
     </li>
   </ul>
 </div><!-- /.social-share -->
-        <p class="byline"><strong>Embed D3 Code into a markdown Jekyll Document</strong> was published on <time datetime="2015-10-20T00:33:53+02:00">October 20, 2015</time>.</p>
+        <p class="byline"><strong>Starting a blog</strong> was published on <time datetime="2015-10-14T16:38:14+02:00">October 14, 2015</time>.</p>
       </footer>
     </div><!-- /.article-wrap -->
   
@@ -295,11 +220,11 @@ function iqr(k) {
   <h4>You might also enjoy <small class="pull-right">(<a href="http://localhost:4000/posts/">View all posts</a>)</small></h4>
     <ul>
     
+      <li><a href="http://localhost:4000/datavis/embed-d3-code/" title="Embed D3 Code into a markdown Jekyll Document">Embed D3 Code into a markdown Jekyll Document</a></li>
+    
       <li><a href="http://localhost:4000/evolution/biased-gene-conversion/" title="Biased Gene Conversion">Biased Gene Conversion</a></li>
     
       <li><a href="http://localhost:4000/evolution/hill-robertson-effects/" title="Hill-Robertson Effects">Hill-Robertson Effects</a></li>
-    
-      <li><a href="http://localhost:4000/test-post/" title="Starting a blog">Starting a blog</a></li>
     
     </ul>
     <hr />
