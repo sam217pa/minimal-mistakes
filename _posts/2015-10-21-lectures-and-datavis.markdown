@@ -89,7 +89,7 @@ A good lecturer's main role is to make complex questions coherent.
 
 ## Good lecturers show details and perspective##
 
-A good lecturer has the ability to attach the finest details to the broader tendency in which they are included. He knows the bread phenomena as well as little peculiar details.
+A good lecturer has the ability to attach the finest details to the broader tendency in which they are included. He knows the broad phenomena as well as little peculiar details.
 
 ## Good lecturers serves a clear purpose.##
 
@@ -101,7 +101,7 @@ Such questions are so common that a lecturer tends to forget to answer it.
 
 Tufte says a chart's data to ink ratio should be maximized. Chartjunk should be eliminated. 
 
-I say ideas to speak ratio is the measure of a lecture's quality. Charttalk is needless. So many talk are crippled with useless information that it is rather the rule than the exception.
+I say ideas to speak ratio is the measure of a lecture's quality. Talkjunk is needless. So many talk are crippled with useless information that it is rather the rule than the exception.
 
 Focus should be on the lecturer. Not on the screen.  
 The lecturer's focus should be on the listener. Not on the screen.
