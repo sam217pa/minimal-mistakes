@@ -6,7 +6,7 @@ categories: evolution
 excerpt: "A description of a novel neutral process of genome evolution"
 tags: [bgc, biased gene conversion, evolution, genome]
 image: 
-  feature: sample-image-2.jpg
+  feature: dnaseq.jpg
 date: 2015-10-17T15:17:18+02:00
 comments: true
 ---
