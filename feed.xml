@@ -4,13 +4,153 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://sam217pa.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://sam217pa.github.io" />
-<updated>2015-10-21T14:59:18+02:00</updated>
+<updated>2015-10-21T21:38:27+02:00</updated>
 <id>http://sam217pa.github.io/</id>
 <author>
   <name>Samuel Barreto</name>
   <uri>http://sam217pa.github.io/</uri>
   <email>samuel.barreto8@gmail.com</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Lectures and Data Visualization]]></title>
+  <link rel="alternate" type="text/html" href="http://sam217pa.github.io/opinions/lectures-and-datavis/" />
+  <id>http://sam217pa.github.io/opinions/lectures-and-datavis</id>
+  <published>2015-10-21T20:40:26+02:00</published>
+  <updated>2015-10-21T20:40:26+02:00</updated>
+  <author>
+    <name>Samuel Barreto</name>
+    <uri>http://sam217pa.github.io</uri>
+    <email>samuel.barreto8@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
+  &lt;header&gt;
+    &lt;h3&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Overview&lt;/h3&gt;
+  &lt;/header&gt;
+&lt;div id=&quot;drawer&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#good-lecturers-show-the-question&quot; id=&quot;markdown-toc-good-lecturers-show-the-question&quot;&gt;Good lecturers show the question&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#good-lecturers-have-a-good-style&quot; id=&quot;markdown-toc-good-lecturers-have-a-good-style&quot;&gt;Good lecturers have a good style.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#good-lecturers-do-not-distort-the-question&quot; id=&quot;markdown-toc-good-lecturers-do-not-distort-the-question&quot;&gt;Good lecturers do not distort the question.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#good-lecturers-synthesize&quot; id=&quot;markdown-toc-good-lecturers-synthesize&quot;&gt;Good lecturers synthesize.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#good-lecturers-show-complexity&quot; id=&quot;markdown-toc-good-lecturers-show-complexity&quot;&gt;Good lecturers show complexity.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#good-lecturers-show-details-and-perspective&quot; id=&quot;markdown-toc-good-lecturers-show-details-and-perspective&quot;&gt;Good lecturers show details and perspective&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#good-lecturers-serves-a-clear-purpose&quot; id=&quot;markdown-toc-good-lecturers-serves-a-clear-purpose&quot;&gt;Good lecturers serves a clear purpose.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#conclusion&quot; id=&quot;markdown-toc-conclusion&quot;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- /#table-of-contents --&gt;
+
+&lt;p&gt;Powerpoints are everywhere. In our world of science, Powerpoints are the &lt;em&gt;lingua
+franca&lt;/em&gt; of lectures. Yet they are seldom used to their rightful potential. I
+believe Powerpoints are often accused of the lecturer’s fault. I speak here with
+the legitimacy of a student that spent most of the last six years listening to
+lecturers with poor lecturing skills. &lt;label for=&quot;776&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;776&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;I am not saying here that all of the lectures I had were of poor quality. I say most of them. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;I am a great admirer of Edward Tufte’s work about data visualization. Yet I
+disagree with his opinion that Powerpoints kills reasoning. Actually I believe
+there are many overlaps between good data visualization and good lectures.&lt;/p&gt;
+
+&lt;p&gt;Here are Tufte’s opinion on graphical excellence. Good graphics :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;show the data&lt;/li&gt;
+    &lt;li&gt;induce the viewer to think about substance rather than methodology, design
+or something else.&lt;/li&gt;
+    &lt;li&gt;avoid distorting the data.&lt;/li&gt;
+    &lt;li&gt;present many number in a small space.&lt;/li&gt;
+    &lt;li&gt;make large data sets coherent.&lt;/li&gt;
+    &lt;li&gt;reveal the data at several levels of details, from a broad overview to a
+fine structure.&lt;/li&gt;
+    &lt;li&gt;serve a clear purpose.&lt;/li&gt;
+    &lt;li&gt;be closely integrated with the statistical and verbal description of the
+data.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As a matter of fact, a good lectures shares the same objectives. Good lectures :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;show the question.&lt;/li&gt;
+  &lt;li&gt;induce the listener to think about substance rather than the lecturer’s style of lecturing.&lt;/li&gt;
+  &lt;li&gt;avoid distorting the question&lt;/li&gt;
+  &lt;li&gt;present many complex facts and ideas in a small space.&lt;/li&gt;
+  &lt;li&gt;make complex, multivariate questions coherent.&lt;/li&gt;
+  &lt;li&gt;reveals the ins and outs of the question at several levels of details, from a broad overview to the finest technical details.&lt;/li&gt;
+  &lt;li&gt;serve a clear purpose.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here I’ll expose what I think makes a good lecturer &lt;label for=&quot;134&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;134&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;I’ll talk indifferently of lecturer or Powerpoint. To me, a Powerpoint is as bad as is its designer. &lt;/span&gt; . It follows Tufte’s ideas on data visualization.&lt;/p&gt;
+
+&lt;h2 id=&quot;good-lecturers-show-the-question&quot;&gt;Good lecturers show the question&lt;/h2&gt;
+
+&lt;p&gt;A Powerpoint and a lecturer are useless if the scientific question behind it is not understood by the audience.&lt;/p&gt;
+
+&lt;p&gt;A good Powerpoint should always have a clear title. It describes clearly and concisely the broad topic. It serves its goal even better as a question. Questions gives direction to reasoning.&lt;/p&gt;
+
+&lt;h2 id=&quot;good-lecturers-have-a-good-style&quot;&gt;Good lecturers have a good style.&lt;/h2&gt;
+
+&lt;p&gt;This is my main point. Good lecturers induces the listener to think about the &lt;em&gt;question&lt;/em&gt;. The listener should not have to think about the lecture’s style. To paraphrase Pr Hervé Maisonneuve :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Good style is absence of style.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Color that serves no goal should disappear. Forget Powerpoints ready-made templates. They have no place in Science. Superfluous words should disappear. Diagrams are clear. They take the space they need, no more.&lt;/p&gt;
+
+&lt;p&gt;Indeed, I do agree with Edward Tufte that Powerpoints should be reserved for pictures, diagrams and charts. In Science, we can put all aspects of reasoning to good use. Some people needs a visual support to information. But the excessive use of Powerpoints has shifted this support from the lecturer to the screen. We need to realize this. The support of information is the lecturer. The audience should be &lt;em&gt;listening&lt;/em&gt;&lt;label for=&quot;536&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;536&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;Listening is a skill we have to re-learn. Powerpoints have made that much damage. &lt;/span&gt;. Not staring at a screen, trying to make sense of verbless sentences.&lt;/p&gt;
+
+&lt;p&gt;Poor lecturers tend to put too much textual information on screen. As if they were hoping that it could rescue their audience’s lack of attention…&lt;/p&gt;
+
+&lt;p&gt;As does good charts, good lecturers are neutral enough to shift focus from form to content.&lt;/p&gt;
+
+&lt;h2 id=&quot;good-lecturers-do-not-distort-the-question&quot;&gt;Good lecturers do not distort the question.&lt;/h2&gt;
+
+&lt;p&gt;Good lecturers do not leave an opinionated point of view of the question in the listener’s mind. On the contrary, they should be subtle enough to put the seeds of good reasoning in it. The listener has the choice to make it flourish.&lt;/p&gt;
+
+&lt;h2 id=&quot;good-lecturers-synthesize&quot;&gt;Good lecturers synthesize.&lt;/h2&gt;
+
+&lt;p&gt;Good lecturers show many elements to the listener. They give him keys to analyze those elements. Or they can lead him to get this keys by himself &lt;label for=&quot;674&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;674&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;It depends on the lecturer’s style. Even though he should not have a style. Ha. &lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;But they have to be synthetic. One cannot hope to give a sufficiently broad overview of a complex topic with too much divergence from the central point.&lt;/p&gt;
+
+&lt;h2 id=&quot;good-lecturers-show-complexity&quot;&gt;Good lecturers show complexity.&lt;/h2&gt;
+
+&lt;p&gt;Good lecturers connect facts between them. Good lecturers connect theories between them. They connect theories to facts. They connect facts to theories. They connect it to the audience’s knowledge. One can not be a good lecturer without knowing his audience.&lt;/p&gt;
+
+&lt;p&gt;A good lecturer’s main role is to make complex questions coherent.&lt;/p&gt;
+
+&lt;h2 id=&quot;good-lecturers-show-details-and-perspective&quot;&gt;Good lecturers show details and perspective&lt;/h2&gt;
+
+&lt;p&gt;A good lecturer has the ability to attach the finest details to the broader tendency in which they are included. He knows the bread phenomena as well as little peculiar details.&lt;/p&gt;
+
+&lt;h2 id=&quot;good-lecturers-serves-a-clear-purpose&quot;&gt;Good lecturers serves a clear purpose.&lt;/h2&gt;
+
+&lt;p&gt;It could be the #1 point. Good lecturers put things in context. Period. One can never have the listener’s attention if the listener does not know why he should listen. What is the point of this ? Why are you doing this ? Why work on this ? To what point ?&lt;/p&gt;
+
+&lt;p&gt;Such questions are so common that a lecturer tends to forget to answer it.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;Tufte says a chart’s data to ink ratio should be maximized. Chartjunk should be eliminated.&lt;/p&gt;
+
+&lt;p&gt;I say ideas to speak ratio is the measure of a lecture’s quality. Charttalk is needless. So many talk are crippled with useless information that it is rather the rule than the exception.&lt;/p&gt;
+
+&lt;p&gt;Focus should be on the lecturer. Not on the screen.&lt;br /&gt;
+The lecturer’s focus should be on the listener. Not on the screen.&lt;/p&gt;
+
+&lt;p&gt;Powerpoints are a tool to assist reasoning. Not a support of information. Not a decoration. They should be neutral. They should be the hammer of the lecturer. A tool.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://sam217pa.github.io/opinions/lectures-and-datavis/&quot;&gt;Lectures and Data Visualization&lt;/a&gt; was originally published by Samuel Barreto at &lt;a href=&quot;http://sam217pa.github.io&quot;&gt;Bacterial finches&lt;/a&gt; on October 21, 2015.&lt;/p&gt;
+  </content>
+</entry>
 
 
   
