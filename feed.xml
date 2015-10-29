@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://sam217pa.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://sam217pa.github.io" />
-<updated>2015-10-22T00:21:19+02:00</updated>
+<updated>2015-10-29T12:17:34+01:00</updated>
 <id>http://sam217pa.github.io/</id>
 <author>
   <name>Samuel Barreto</name>
@@ -456,12 +456,12 @@ in 1966. They have been described under other declination since.&lt;/p&gt;
 &lt;h2 id=&quot;selective-sweep&quot;&gt;Selective Sweep&lt;/h2&gt;
 
 &lt;p&gt;Consider &lt;em&gt;A&lt;/em&gt;, a strongly advantageous allele, and &lt;em&gt;b&lt;/em&gt; a weakly deleterious
-allele. &lt;em&gt;b&lt;/em&gt; is linked to &lt;em&gt;A&lt;/em&gt;&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. The advantageous effects of &lt;em&gt;A&lt;/em&gt; leads to its
+allele. &lt;em&gt;b&lt;/em&gt; is linked to &lt;em&gt;A&lt;/em&gt;&lt;label for=&quot;189&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;189&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;They are in &lt;em&gt;linkage desequilibrium&lt;/em&gt; &lt;/span&gt;. The advantageous effects of &lt;em&gt;A&lt;/em&gt; leads to its
 invasion in the population. It can even lead to a point of fixation. It is thus
 a selective sweep of &lt;em&gt;A&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;But &lt;em&gt;b&lt;/em&gt; is linked to &lt;em&gt;A&lt;/em&gt;. &lt;em&gt;b&lt;/em&gt; will also invade the population, even if it is
-deleterious. This is a case of “genetic hitch-hiking”&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+deleterious. This is a case of “genetic hitch-hiking”&lt;label for=&quot;751&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;751&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;As coined by John Maynard Smith &lt;/span&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;background-selection&quot;&gt;Background selection&lt;/h2&gt;
 
@@ -498,17 +498,6 @@ is weak and selection strong, genome can be affected on a large scale.&lt;/p&gt;
 &lt;p&gt;Hill-Robertson effects can explain counter intuitive observations. The spread of
 deleterious allele can be explained by genomic interference, as is the case with
 cystic fibrosis.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;They are in “linkage desequilibrium”. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;As coined by John Maynard Smith. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://sam217pa.github.io/evolution/hill-robertson-effects/&quot;&gt;Hill-Robertson Effects&lt;/a&gt; was originally published by Samuel Barreto at &lt;a href=&quot;http://sam217pa.github.io&quot;&gt;Bacterial finches&lt;/a&gt; on October 15, 2015.&lt;/p&gt;
   </content>
