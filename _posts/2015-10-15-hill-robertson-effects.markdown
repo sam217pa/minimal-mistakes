@@ -28,12 +28,12 @@ in 1966. They have been described under other declination since.
 ## Selective Sweep
 
 Consider *A*, a strongly advantageous allele, and *b* a weakly deleterious
-allele. *b* is linked to *A*[^2]. The advantageous effects of *A* leads to its
+allele. *b* is linked to *A*{% sidenote "189" "They are in *linkage desequilibrium*" %}. The advantageous effects of *A* leads to its
 invasion in the population. It can even lead to a point of fixation. It is thus
 a selective sweep of *A*.
 
 But *b* is linked to *A*. *b* will also invade the population, even if it is
-deleterious. This is a case of "genetic hitch-hiking"[^1]. 
+deleterious. This is a case of "genetic hitch-hiking"{% sidenote "751" "As coined by John Maynard Smith" %}. 
 
 ## Background selection
 
@@ -68,7 +68,3 @@ is weak and selection strong, genome can be affected on a large scale.
 Hill-Robertson effects can explain counter intuitive observations. The spread of
 deleterious allele can be explained by genomic interference, as is the case with
 cystic fibrosis.
-
-[^1]: As coined by John Maynard Smith.
-
-[^2]: They are in "linkage desequilibrium". 

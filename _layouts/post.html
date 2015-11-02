@@ -5,6 +5,11 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include _head.html %}
+
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 </head>
 
 <body class="post">
@@ -42,7 +47,7 @@
       {% endif %}
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
-      {{ content }}
+        {{ content }}
       <hr />
       <footer role="contentinfo">
         {% if page.share != false %}{% include _social-share.html %}{% endif %}

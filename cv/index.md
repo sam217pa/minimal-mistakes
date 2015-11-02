@@ -41,7 +41,7 @@ transformation, sequencing, computers and statistics.
 </p>
 <h2 align="center">What I've Done</h2>
 
-<h4 align="right">2015</h4>
+<h4 align="center">2015</h4>
 
 I've worked on the evolution of host dependence to its microbial symbionts, in
 the *Bemisia tabaci* whitefly model{% sidenote "2" "See [here](http://www.ncbi.nlm.nih.gov/pubmed/19230673) for a good introduction to the evolutive concepts behind host-plant / insect-host / symbionts interaction."%},
@@ -50,7 +50,7 @@ under the supervision of
 [Laurence Mouton](https://lbbe.univ-lyon1.fr/-Mouton-Laurence-.html). I learned
 and used molecular biology, PCR, sequencing and evolution analysis. 
 
-<h4 align="right">2013</h4>
+<h4 align="center">2013</h4>
 
 I tried to evaluate the pathogenicity of viable but non-culturable *Legionella
 pneumophila*. I was supervised by
@@ -65,18 +65,18 @@ handling.
 </p>
 <h2 align="center">Study</h2>
 
-<h4 align="right">2014 - 2016</h4>
+<h4 align="center">2014 - 2016</h4>
 
 I studied Microbial Ecology in the Microbiology Master of Lyon, France{% sidenote "3" "More information [here](http://master-me.univ-lyon1.fr/)."%}.
 I learned evolution biology, host-microbes interactions, microbial ecology study
 techniques and statistics. 
 
-<h4 align="right">2013 - 2014</h4>
+<h4 align="center">2013 - 2014</h4>
 
 I got my Microbiology Bachelor with honors from the Université Claude Bernard,
 Lyon 1, France.
 
-<h4 align="right">2011 - 2013</h4>
+<h4 align="center">2011 - 2013</h4>
 
 I obtained a technical degree of Environmental and Biological Engineering, with
 honors, from the Université Jean Moulin, Saint-Étienne, France.
@@ -109,7 +109,7 @@ Vim for comfort, and Emacs for sanity{% sidenote "6" "Actually I use [Spacemacs]
 </p>
 <h2 align="center">Languages</h2>
 
-Je parle Français, my mother's tongue.
+Je parle Français, my mother tongue.
 
 I speak, read and understand English{% sidenote "11" "TOEIC level C1."%}
 
