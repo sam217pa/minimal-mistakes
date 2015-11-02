@@ -1,4 +1,7 @@
 #!/usr/local/bin/zsh
+cd _bibliography
+./make_bib
+cd ..
 
 bundle exec jekyll build
 
