@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm ./references.bib
+
+cat header.yaml /Volumes/HDD/zotero_bib/stage_m2.bib > references.bib
