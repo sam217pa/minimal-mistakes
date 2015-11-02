@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Bacterial finches</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-11-02T01:20:25+01:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://sam217pa.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://sam217pa.github.io" />
+<updated>2015-11-02T01:22:08+01:00</updated>
+<id>http://sam217pa.github.io/</id>
 <author>
   <name>Samuel Barreto</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://sam217pa.github.io/</uri>
   <email>samuel.barreto8@gmail.com</email>
 </author>
 
@@ -17,13 +17,13 @@
 
 <entry>
   <title type="html"><![CDATA[Lectures and Data Visualization]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/opinions/lectures-and-datavis/" />
-  <id>http://localhost:4000/opinions/lectures-and-datavis</id>
+  <link rel="alternate" type="text/html" href="http://sam217pa.github.io/opinions/lectures-and-datavis/" />
+  <id>http://sam217pa.github.io/opinions/lectures-and-datavis</id>
   <published>2015-10-21T20:40:26+02:00</published>
   <updated>2015-10-21T20:40:26+02:00</updated>
   <author>
     <name>Samuel Barreto</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://sam217pa.github.io</uri>
     <email>samuel.barreto8@gmail.com</email>
   </author>
   <content type="html">
@@ -148,7 +148,7 @@ The lecturer’s focus should be on the listener. Not on the screen.&lt;/p&gt;
 
 &lt;p&gt;Powerpoints are a tool to assist reasoning. Not a support of information. Not a decoration. They should be neutral. They should be the hammer of the lecturer. A tool.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/opinions/lectures-and-datavis/&quot;&gt;Lectures and Data Visualization&lt;/a&gt; was originally published by Samuel Barreto at &lt;a href=&quot;http://localhost:4000&quot;&gt;Bacterial finches&lt;/a&gt; on October 21, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sam217pa.github.io/opinions/lectures-and-datavis/&quot;&gt;Lectures and Data Visualization&lt;/a&gt; was originally published by Samuel Barreto at &lt;a href=&quot;http://sam217pa.github.io&quot;&gt;Bacterial finches&lt;/a&gt; on October 21, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -157,13 +157,13 @@ The lecturer’s focus should be on the listener. Not on the screen.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Embed D3 Code into a markdown Jekyll Document]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/datavis/embed-d3-code/" />
-  <id>http://localhost:4000/datavis/embed-d3-code</id>
+  <link rel="alternate" type="text/html" href="http://sam217pa.github.io/datavis/embed-d3-code/" />
+  <id>http://sam217pa.github.io/datavis/embed-d3-code</id>
   <published>2015-10-20T00:33:53+02:00</published>
   <updated>2015-10-20T00:33:53+02:00</updated>
   <author>
     <name>Samuel Barreto</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://sam217pa.github.io</uri>
     <email>samuel.barreto8@gmail.com</email>
   </author>
   <content type="html">
@@ -284,7 +284,7 @@ function iqr(k) {
 
 &lt;div id=&quot;example&quot;&gt;&lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/datavis/embed-d3-code/&quot;&gt;Embed D3 Code into a markdown Jekyll Document&lt;/a&gt; was originally published by Samuel Barreto at &lt;a href=&quot;http://localhost:4000&quot;&gt;Bacterial finches&lt;/a&gt; on October 20, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sam217pa.github.io/datavis/embed-d3-code/&quot;&gt;Embed D3 Code into a markdown Jekyll Document&lt;/a&gt; was originally published by Samuel Barreto at &lt;a href=&quot;http://sam217pa.github.io&quot;&gt;Bacterial finches&lt;/a&gt; on October 20, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -293,13 +293,13 @@ function iqr(k) {
 
 <entry>
   <title type="html"><![CDATA[Biased Gene Conversion]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/evolution/biased-gene-conversion/" />
-  <id>http://localhost:4000/evolution/biased-gene-conversion</id>
+  <link rel="alternate" type="text/html" href="http://sam217pa.github.io/evolution/biased-gene-conversion/" />
+  <id>http://sam217pa.github.io/evolution/biased-gene-conversion</id>
   <published>2015-10-17T15:17:18+02:00</published>
   <updated>2015-10-17T15:17:18+02:00</updated>
   <author>
     <name>Samuel Barreto</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://sam217pa.github.io</uri>
     <email>samuel.barreto8@gmail.com</email>
   </author>
   <content type="html">
@@ -404,7 +404,7 @@ deleterious mutations; and it can confound traces of selection.&lt;/p&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/evolution/biased-gene-conversion/&quot;&gt;Biased Gene Conversion&lt;/a&gt; was originally published by Samuel Barreto at &lt;a href=&quot;http://localhost:4000&quot;&gt;Bacterial finches&lt;/a&gt; on October 17, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sam217pa.github.io/evolution/biased-gene-conversion/&quot;&gt;Biased Gene Conversion&lt;/a&gt; was originally published by Samuel Barreto at &lt;a href=&quot;http://sam217pa.github.io&quot;&gt;Bacterial finches&lt;/a&gt; on October 17, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -413,13 +413,13 @@ deleterious mutations; and it can confound traces of selection.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Hill-Robertson Effects]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/evolution/hill-robertson-effects/" />
-  <id>http://localhost:4000/evolution/hill-robertson-effects</id>
+  <link rel="alternate" type="text/html" href="http://sam217pa.github.io/evolution/hill-robertson-effects/" />
+  <id>http://sam217pa.github.io/evolution/hill-robertson-effects</id>
   <published>2015-10-15T19:06:40+02:00</published>
   <updated>2015-10-15T19:06:40+02:00</updated>
   <author>
     <name>Samuel Barreto</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://sam217pa.github.io</uri>
     <email>samuel.barreto8@gmail.com</email>
   </author>
   <content type="html">
@@ -499,7 +499,7 @@ is weak and selection strong, genome can be affected on a large scale.&lt;/p&gt;
 deleterious allele can be explained by genomic interference, as is the case with
 cystic fibrosis.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/evolution/hill-robertson-effects/&quot;&gt;Hill-Robertson Effects&lt;/a&gt; was originally published by Samuel Barreto at &lt;a href=&quot;http://localhost:4000&quot;&gt;Bacterial finches&lt;/a&gt; on October 15, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sam217pa.github.io/evolution/hill-robertson-effects/&quot;&gt;Hill-Robertson Effects&lt;/a&gt; was originally published by Samuel Barreto at &lt;a href=&quot;http://sam217pa.github.io&quot;&gt;Bacterial finches&lt;/a&gt; on October 15, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -508,13 +508,13 @@ cystic fibrosis.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Starting a blog]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/test-post/" />
-  <id>http://localhost:4000/test-post</id>
+  <link rel="alternate" type="text/html" href="http://sam217pa.github.io/test-post/" />
+  <id>http://sam217pa.github.io/test-post</id>
   <published>2015-10-14T16:38:14+02:00</published>
   <updated>2015-10-14T16:38:14+02:00</updated>
   <author>
     <name>Samuel Barreto</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://sam217pa.github.io</uri>
     <email>samuel.barreto8@gmail.com</email>
   </author>
   <content type="html">
@@ -560,7 +560,7 @@ and I try my best to be good at it. I’ll certainly blog on it sometimes.&lt;/p
 to blog some other times.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/test-post/&quot;&gt;Starting a blog&lt;/a&gt; was originally published by Samuel Barreto at &lt;a href=&quot;http://localhost:4000&quot;&gt;Bacterial finches&lt;/a&gt; on October 14, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sam217pa.github.io/test-post/&quot;&gt;Starting a blog&lt;/a&gt; was originally published by Samuel Barreto at &lt;a href=&quot;http://sam217pa.github.io&quot;&gt;Bacterial finches&lt;/a&gt; on October 14, 2015.&lt;/p&gt;
   </content>
 </entry>
 
