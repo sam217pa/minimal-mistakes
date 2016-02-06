@@ -4,13 +4,71 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://sam217pa.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://sam217pa.github.io" />
-<updated>2015-11-02T13:44:59+01:00</updated>
+<updated>2016-02-06T16:16:14+01:00</updated>
 <id>http://sam217pa.github.io/</id>
 <author>
   <name>Samuel Barreto</name>
   <uri>http://sam217pa.github.io/</uri>
   <email>samuel.barreto8@gmail.com</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Emacs in My Toolbox]]></title>
+  <link rel="alternate" type="text/html" href="http://sam217pa.github.io/emacs/emacs-in-my-toolbox/" />
+  <id>http://sam217pa.github.io/emacs/emacs-in-my-toolbox</id>
+  <published>2016-02-06T15:42:58+01:00</published>
+  <updated>2016-02-06T15:42:58+01:00</updated>
+  <author>
+    <name>Samuel Barreto</name>
+    <uri>http://sam217pa.github.io</uri>
+    <email>samuel.barreto8@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Emacs is a powerful tool. A frequent habit of emacs user is to try to migrate
+everything they know and use inside emacs. Emacs Gnus or mu4e, both emacs mail
+clients, emacs org-mode, a GTD mode inside emacs—which is actually extremely
+powerful—, emacs calc, a calculator inside emacs etc… are all attempts in this
+line of conduct.&lt;/p&gt;
+
+&lt;p&gt;As an emacs user myself, I also tried these stuff. And it works really well.&lt;/p&gt;
+
+&lt;p&gt;As a matter of fact, I actually use it all day long. Let’s describe quickly how
+I use it to work.&lt;/p&gt;
+
+&lt;h1 id=&quot;emacs-matters&quot;&gt;Emacs Matters&lt;/h1&gt;
+
+&lt;p&gt;I start emacs as I start my OS. I used to check mails with mu4e, but never
+really loved the UI. I check my agenda for the day, built with org-mode. I set
+up my main tasks for the day, putting some time-stamps on it.&lt;/p&gt;
+
+&lt;h1 id=&quot;programming-and-documenting-at-the-same-time&quot;&gt;Programming and documenting. At the same time.&lt;/h1&gt;
+
+&lt;p&gt;I then open the README.org of the project I’m currently working on, which
+involves a lot of bash scripting, python and R. All these scripts are written
+inside the README.org, with comments and all written in org-mode. Scripts are
+written inside &lt;code&gt;src&lt;/code&gt; blocks, and tangled to a src directory containing all my
+tangled files. I never ever edit a single tangled files. I always do it inside
+org-mode, so that I can describe my work, what I try to do, what I already did
+and what’s left to do at the end of the day. My workflow is thus entirely
+managed inside emacs. I can put TODO flags in different parts of the project,
+organise the src code in different header tree etc…&lt;/p&gt;
+
+&lt;h1 id=&quot;org-mode-to-pdf&quot;&gt;Org-mode to pdf&lt;/h1&gt;
+
+&lt;p&gt;When the time comes to write a report, I write it inside org-mode. I use zotero
+to export my references to a &lt;code&gt;.bib&lt;/code&gt; file somewhere on my computer. Org-ref is a
+mode to manage citations and references inside org-mode. I already wrote a 30
+pages long report with figures, references, math and all inside org-mode. I
+export to latex, and use &lt;code&gt;latexmk&lt;/code&gt; to export my report to pdf.&lt;/p&gt;
+
+&lt;p&gt;Emacs is great. Let’s all use emacs. &lt;label for=&quot;724&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;724&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;I actually use Spacemacs, a combination of Vim and Emacs. It’s great if you plan to stay all day at the computer : your pinky will thank you for that. It’s all the more true if you have it broken like me ! &lt;/span&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://sam217pa.github.io/emacs/emacs-in-my-toolbox/&quot;&gt;Emacs in My Toolbox&lt;/a&gt; was originally published by Samuel Barreto at &lt;a href=&quot;http://sam217pa.github.io&quot;&gt;Bacterial finches&lt;/a&gt; on February 06, 2016.&lt;/p&gt;
+  </content>
+</entry>
 
 
   
